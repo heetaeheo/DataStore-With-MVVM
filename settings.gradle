@@ -1,0 +1,3 @@
+
+rootProject.name = "DataStore with MVVM"
+include ':app'
